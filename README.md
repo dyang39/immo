@@ -1,6 +1,9 @@
 # IMMO: Inner Monologue Multi-modal Optimization 
 [Tackling Vision Language Tasks Through Learning Inner Monologues](https://arxiv.org/abs/2308.09970) 
-The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024
+The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+This repository contains the temporary sharing for IMMO.
+The official release will be available at [ucscirkm](https://github.com/ucscirkm/immo) in the near future.
 
 ## Usage
 This repo is still under construction. More content will be updated soon. 
