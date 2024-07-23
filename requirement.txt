@@ -1,0 +1,14 @@
+torch
+appdirs
+loralib
+black
+black[jupyter]
+datasets
+sentencepiece
+gradio
+accelerate
+bitsandbytes
+git+https://github.com/huggingface/peft.git
+transformers>=4.28.0
+scipy
+fire
